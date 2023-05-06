@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello, I'm a frontend-focused full stack web developer with expertise in React and CSS frameworks like Tailwind and Material UI. I have a deep understanding of JavaScript with all the advance features like Asynchronous, promise and a passion for building visually appealing, responsive web applications that provide engaging user experiences.<br><br>In addition to my frontend skills, I also have moderate knowledge of Node.js, Express.js, REST APIs, and MongoDB, which allows me to develop full stack applications that are both functional and performant.<br><br>I am passionate about creating innovative solutions and collaborating with others to create high-quality web applications. Let's work together to build something great!<br><br>
-###mail: <b>imdariful71@gmail.com</b> <br>
+### mail: <b color="royalblue">imdariful71@gmail.com</b> <br>
 
 
 ## 🌐 Socials:
